@@ -1,5 +1,5 @@
 {
-    "name": "rtxzy",
+    "name": "Fubuki-md",
     "version": "07.06.98",
     "description": "Customizable WhatsApp Bot",
     "depecrated": false,
@@ -26,16 +26,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/BOTCAHX/rtxzy-Md-v2",
+    "homepage": "https://github.com/ZansLord/fubuki",
     "author": {
-        "name": "Base Coded By TioXd"
+        "name": "Base Coded By ZansLord"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/BOTCAHX/rtxzy-Md-v2.git"
+        "url": "git+https://github.com/ZansLord/fubuki.git"
     },
     "bugs": {
-        "url": "https://github.com/BOTCAHX/rtxzy-Md-v2/issues"
+        "url": "https://github.com/ZansLord/fubuki/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
